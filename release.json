@@ -1,0 +1,22 @@
+{
+  "name": "MR",
+  "version": "2.4.3.4",
+  "date": "",
+  "notes": [
+    "可通过下方网盘入口获取安装包，提取码可一键复制。",
+    "请以网盘中实际提供的安装包版本为准。"
+  ],
+  "downloads": [
+    {
+      "name": "夸克网盘",
+      "url": "https://pan.quark.cn/s/4fded845510a?pwd=ZJT8",
+      "code": "ZJT8"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1DsNhIbe5iQdcVzCd2cGv3A?pwd=o453",
+      "code": "o453"
+    }
+  ],
+  "qqGroup": "1129769826"
+}
